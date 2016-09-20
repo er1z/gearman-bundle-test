@@ -1,0 +1,4 @@
+services:
+
+    app.generator_worker:
+        class: AppBundle\Worker\GeneratorWorker
